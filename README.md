@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Adrian 
 - 👀 I’m interested in PCs / Coding / Gaming 
-- 🌱 I’m currently learning Python / ARMv8-A 
+- 🌱 I’m currently learning Python
